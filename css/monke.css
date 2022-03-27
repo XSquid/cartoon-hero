@@ -1,0 +1,31 @@
+body{
+    margin:0;
+    font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+header{
+    background-color: saddlebrown;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+h1, h2{
+    font-family: 'Anton', sans-serif;
+}
+
+header h1{
+    color: antiquewhite;
+    font-size: 50px;
+    
+}
+
+header img{
+    border-radius: 170px;
+    width: 300px;
+    border: 10px solid black;
+}
+
+main{
+    
+}
